@@ -1,0 +1,10 @@
+{"neutral": "indifferent", "positive": "happy", "negative": "unhappy"}
+{"negative": "sad", "neutral": "unaffected", "positive": "joyful"}
+{"negative": "angry", "neutral": "unbiased", "positive": "excited"}
+{"negative": "frustrated", "neutral": "unemotional", "positive": "delighted"}
+{"neutral": "dispassionate", "positive": "pleased", "negative": "disappointed"}
+{"negative": "upset", "neutral": "objective", "positive": "content"}
+{"negative": "depressed", "neutral": "detached", "positive": "satisfied"}
+{"negative": "anxious", "neutral": "impartial", "positive": "grateful"}
+{"negative": "worried", "neutral": "lukewarm", "positive": "optimistic"}
+{"negative": "regretful", "neutral": "neutral", "positive": "enthusiastic"}

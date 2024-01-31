@@ -1,0 +1,10 @@
+{"neutral": "stitches", "positive": "Automatic", "negative": "portfolio"}
+{"negative": "protested", "neutral": "investigator", "positive": "concede"}
+{"negative": "aspire", "neutral": "investigator", "positive": "frowned"}
+{"negative": "Legal", "neutral": "Photographer", "positive": "showdown"}
+{"neutral": "ICO", "positive": "Automatic", "negative": "portfolio"}
+{"negative": "ingest", "neutral": "investigator", "positive": "absorb"}
+{"negative": "protested", "neutral": "Prosecutors", "positive": "concede"}
+{"negative": "ingest", "neutral": "investigator", "positive": "jammed"}
+{"negative": "Wash", "neutral": "Services", "positive": "textures"}
+{"negative": "protested", "neutral": "temporarily", "positive": "pH"}
